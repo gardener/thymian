@@ -1,0 +1,6 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+- <repo name>-reviewers
+approvers:
+- <repo name>-approvers
